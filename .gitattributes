@@ -1,2 +1,0 @@
-trace1_train1.npz filter=lfs diff=lfs merge=lfs -text
-trace1_train2.npz filter=lfs diff=lfs merge=lfs -text
